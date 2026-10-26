@@ -11,7 +11,7 @@
                 <th>ID</th>
                 <th>Nom</th>
                 <th>Prénom</th>
-                <th>Email</th>
+                <th>Mom</th>
             </tr>
         </thead>
 
